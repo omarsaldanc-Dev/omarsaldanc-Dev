@@ -2,10 +2,11 @@
 
 **Operations Coordinator & Data Analyst | Business Automation Specialist**
 
-I am a professional with over 15 years of experience in business control and operations management, now leveraging modern technologies to drive efficiency. I specialize in transforming complex data into actionable insights and automating repetitive workflows.
+I help businesses and teams reclaim their time by eliminating the burden of manual and repetitive tasks. My focus isn't just writing code; it's designing custom solutions that transform slow, error-prone processes into automated, precise workflows ready for strategic decision-making.
 
 ### 🛠 Tech Stack & Tools:
 - **Languages:** Python (Automation & Data Analysis), VBA (Advanced Excel Macros), SQL (MySQL), DAX & M (Power BI).
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,mysql)](https://skillicons.dev) 
 - **Tools:** SAP (S/4HANA), Salesforce, Power BI, Git/GitHub.
 - **Expertise:** Budget Control (CAPEX/OPEX), KPI Monitoring, Process Optimization (E2E), and Team Leadership.
 
@@ -16,8 +17,27 @@ I am a professional with over 15 years of experience in business control and ope
 
 ---
 "I don't just write code; I build solutions that save time and optimize business resources."
+
+### 🛠 Tech Stack
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel/VBA](https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_S4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP GUI](https://img.shields.io/badge/SAP_GUI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 <!--
 **omarsaldanc-Dev/omarsaldanc-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```md
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+```
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 

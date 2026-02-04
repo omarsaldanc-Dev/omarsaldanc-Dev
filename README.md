@@ -1,6 +1,6 @@
 # Hi, I'm Omar Saldaña! 👋
 
-**Operations Coordinator & Data Analyst | Business Automation Specialist**
+**Data Analyst | Business Automation Specialist**
 
 I help businesses and teams reclaim their time by eliminating the burden of manual and repetitive tasks. My focus isn't just writing code; it's designing custom solutions that transform slow, error-prone processes into automated, precise workflows ready for strategic decision-making.
 
